@@ -1,4 +1,4 @@
 # notes
 notes
 
-first repo for text notes and someting
+first repo for text notes and something
